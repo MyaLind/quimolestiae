@@ -1,0 +1,51 @@
+{
+  "name": "quimolestiae",
+  "version": "1.0.0",
+  "description": "An implementation of the continuation monad for fp-ts",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyaLind/quimolestiae.git"
+  },
+  "author": "AdrianaGottlieb",
+  "license": "MIT",
+  "dependencies": {
+    "fp-ts": "^2.0.5"
+  },
+  "devDependencies": {
+    "@types/mocha": "2.2.38",
+    "@types/node": "7.0.4",
+    "docs-ts": "^0.1.0",
+    "jest": "^24.8.0",
+    "mocha": "^5.2.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.0.2",
+    "ts-node": "3.2.0",
+    "tslint": "^5.18.0",
+    "tslint-config-standard": "^8.0.1",
+    "typescript": "^3.5.3"
+  },
+  "tags": [
+    "fp-ts",
+    "functional programming",
+    "typescript"
+  ],
+  "keywords": [
+    "in",
+    "continuation",
+    "et",
+    "molestiae",
+    "ContT",
+    "ab",
+    "asperiores",
+    "MonadCont",
+    "sit",
+    "mtl",
+    "transformer",
+    "et"
+  ]
+}
